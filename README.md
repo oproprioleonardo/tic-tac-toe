@@ -1,5 +1,5 @@
-# JogoDaVelha
+# Tic Tac Toe
 
-Jogo da velha com contabilização de pontos para jogar em dupla.
+Tic-tac-toe game with points to play in pairs.
 
-<img src="https://www.dropbox.com/scl/fi/3w0g0qm379aghkw3axxd5/ApresentacaoJogoDaVelhaGif.gif?rlkey=5mtpiqhmoabyndp6mcfvcpgxk&raw=1" alt="GIF apresentando o programa"/>
+<img src="https://www.dropbox.com/scl/fi/3w0g0qm379aghkw3axxd5/ApresentacaoJogoDaVelhaGif.gif?rlkey=5mtpiqhmoabyndp6mcfvcpgxk&raw=1" alt="GIF presenting the game"/>
